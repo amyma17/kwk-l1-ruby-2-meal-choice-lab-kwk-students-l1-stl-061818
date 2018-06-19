@@ -14,7 +14,8 @@ def dinner(meal="salmon")
   puts "For dinner #{meal} would be a good option."
 end
 
-breakfast("toast")
+breakfast("toast") 
+breakfast
 lunch("a sandwich")
 snack
 dinner("pasta")
