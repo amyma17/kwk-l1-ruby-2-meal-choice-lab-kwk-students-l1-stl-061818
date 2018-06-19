@@ -15,7 +15,6 @@ def dinner(meal="salmon")
 end
 
 breakfast
-morning snack
 lunch
 snack
 dinner
