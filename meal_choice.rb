@@ -6,7 +6,7 @@ def lunch(meal= "grilled cheese")
   puts "#{meal} makes a perfect lunch."
 end
 
-def snack (snack=cheetos)
+def snack (snack="cheetos")
   puts "Have some #{snack} for a snack"
 end
 
