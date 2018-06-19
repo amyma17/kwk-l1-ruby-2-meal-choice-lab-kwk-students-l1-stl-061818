@@ -2,10 +2,6 @@ def breakfast(food="frosted flakes")
   puts "Morning is a good time for #{food}!"
 end
 
-def morning snack(food="fruit")
-  puts "If you're hungry before lunch, you should eat some #{food}."
-end
-
 def lunch(meal= "grilled cheese")
   puts "#{meal} makes a perfect lunch."
 end
